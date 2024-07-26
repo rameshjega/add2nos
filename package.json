@@ -1,0 +1,14 @@
+{
+  "name": "add2nos",
+  "version": "1.0.1",
+  "description": "This Package can be used to add 2 nos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["my", "npm", "package", "rameshjega1987"],
+  "author": "Your Name rameshjega1987@gmail.com",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
